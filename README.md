@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimofey
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning CAPL
+- 🌱 I’m currently learning Java
 - 📫 You can reach me by sending me e-mail.
 
 <!---
