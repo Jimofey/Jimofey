@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimofey
 - 👀 I’m interested in Python，Java
-- 🌱 I’m currently learning embedded c
+- 🌱 I’m currently learning embedded C
 - 📫 You can reach me by sending me e-mail.
 
 <!---
